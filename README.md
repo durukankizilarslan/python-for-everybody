@@ -13,10 +13,14 @@ Conditional Steps (if)
 Repeated Steps (while)  
 
 ## Variables, Expressions and Statements (Chapter 2)
-Constants
-Variables
-Reserved Words
-Variable Naming Rules
-Mnemonic Variable Names
-Assignment Statement
-Numeric Expressions - Operators
+Constants  
+Variables  
+Reserved Words  
+Variable Naming Rules  
+Mnemonic Variable Names  
+Assignment Statement  
+Numeric Expressions - Operators  
+Order of Evaluation - Operator Presedence  
+Data types , type() function  
+Types of numbers (int, float)  
+Type conversion int() float()  
