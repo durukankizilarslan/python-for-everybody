@@ -13,4 +13,10 @@ Conditional Steps (if)
 Repeated Steps (while)  
 
 ## Variables, Expressions and Statements (Chapter 2)
-
+Constants
+Variables
+Reserved Words
+Variable Naming Rules
+Mnemonic Variable Names
+Assignment Statement
+Numeric Expressions - Operators
