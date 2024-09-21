@@ -24,3 +24,8 @@ Order of Evaluation - Operator Presedence
 Data types , type() function  
 Types of numbers (int, float)  
 Type conversion int() float()  
+Integer division (puts out a floating point result in Python 3)  
+String conversion using int()) and float()  
+Use rinput using input()  
+
+
