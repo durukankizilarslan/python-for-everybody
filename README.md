@@ -27,5 +27,6 @@ Type conversion int() float()
 Integer division (puts out a floating point result in Python 3)  
 String conversion using int()) and float()  
 Use rinput using input()  
+Converting user input int(input)  
 
 
