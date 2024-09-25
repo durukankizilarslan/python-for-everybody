@@ -65,3 +65,7 @@ None type
 is Operator (if ____ is ____)  
 
 ## Strings (Chapter 6)
+Index operator []  
+Length function len()  
+Looping through strings (while ____ < len(something) )  
+Looping through strings (for letter in fruit )  
