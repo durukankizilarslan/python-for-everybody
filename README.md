@@ -56,4 +56,12 @@ While loop and zero-trip loops
 Breaking the loop (break)  
 Passing the iteration (continue)  
 Indefinite loops(for) and definite loops(while)  
+For loop (for i in set)  
+Finding the largest value (for loop)  
+Summing in a loop (find the summ of numbers in a set)  
+Filtering in a loop (if inside a for loop)  
+Searching using a Boolean variable  
+None type  
+is Operator (if ____ is ____)  
 
+## Strings (Chapter 6)
