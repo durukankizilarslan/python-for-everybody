@@ -70,3 +70,10 @@ Length function len()
 Looping through strings (while ____ < len(something) )  
 Looping through strings (for letter in fruit )  
 String operations - slicing [:]  
+"in" keyword as a logical operator  
+String built in functions  
+find() method  
+upper() and lower() method  
+replace() method  
+lstrip(), rstrip(), strip()  
+startswith()  
