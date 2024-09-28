@@ -69,3 +69,4 @@ Index operator []
 Length function len()  
 Looping through strings (while ____ < len(something) )  
 Looping through strings (for letter in fruit )  
+String operations - slicing [:]  
