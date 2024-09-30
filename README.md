@@ -77,3 +77,10 @@ upper() and lower() method
 replace() method  
 lstrip(), rstrip(), strip()  
 startswith()  
+
+## Reading Files (Chapter 7)  
+Opening a file open() and the handle  
+The newline character \n  
+Counting lines in a file with for loop  
+Reading the whole file using read()  
+Searching through a file with open() and using an if inside a for loop  
