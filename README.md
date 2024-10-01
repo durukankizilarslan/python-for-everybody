@@ -113,4 +113,8 @@ Dictionaries - counting
 Usage of "in" operator to check if a key is in the dictionary -> if name not in counts: counts[name] = 1  
 get() method and default value of it -> get(name, 0)  
 Counting with get()  
+Count words in a line using dictionaries  
+Definite loops and dictionaries -> Printing dictionary content with for loops  
+Retrieving of keys and values using jjj.keys(), jjj.values() and jjj.items() methods  
+Two-iteration variables used in dictionaries -> for aaa,bbb in jjj.items(): print(aaa, bbb)  
 
