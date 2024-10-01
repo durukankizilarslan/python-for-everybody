@@ -84,3 +84,24 @@ The newline character \n
 Counting lines in a file with for loop  
 Reading the whole file using read()  
 Searching through a file with open() and using an if inside a for loop  
+Skipping a line with a continue statement  
+Using the "in" statement to skip line - if not '_____' in line:  
+try: except: notation for files that can not be opened  
+quit() function  
+Bad file names without handle  
+
+## Lists (Chapter 8)
+Lists in Python []  
+Iterating through lists with for loop  
+Lists are mutable (their elements can be changed)  
+Finding the numbers of elements of a list using the len() function  
+The range() function  
+Concatenating lists using +  
+Lists slicing [:]  
+dir() command to see what can you do with the list (methods of lists)  
+List methods  
+list(), append() methods  
+"in" and "not in" methods in lists to verify if a certain element is in the list: 9 in some, 20 not in some  
+sort() method in lists  
+Built in functions and lists  len(), max(), min(), sum()  
+
