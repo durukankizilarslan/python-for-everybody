@@ -104,4 +104,13 @@ list(), append() methods
 "in" and "not in" methods in lists to verify if a certain element is in the list: 9 in some, 20 not in some  
 sort() method in lists  
 Built in functions and lists  len(), max(), min(), sum()  
+Lists and strings - split() function  
+Delimiters in split() function (the character based for splitting)  
+
+## Dictionaries (Chapter 8)
+Dictionaries and dictionary literals  
+Dictionaries - counting  
+Usage of "in" operator to check if a key is in the dictionary -> if name not in counts: counts[name] = 1  
+get() method and default value of it -> get(name, 0)  
+Counting with get()  
 
