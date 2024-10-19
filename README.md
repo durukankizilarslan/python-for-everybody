@@ -118,6 +118,10 @@ Definite loops and dictionaries -> Printing dictionary content with for loops
 Retrieving of keys and values using jjj.keys(), jjj.values() and jjj.items() methods  
 Two-iteration variables used in dictionaries -> for aaa,bbb in jjj.items(): print(aaa, bbb)  
 
-## Tuples (Chapter 9)  
-
-
+## Tuples (Chapter 10)  
+Tuples are like lists, but they're "immutable"  
+Tuple methods (not like lists) count and index - search tuple methods with dir() to find out tuple methods  
+Tuples are more efficient in terms of memory use and performance  
+Tuples and assignment  
+Tuples and Dictionaries - items() method in dictionaries returns a list of tuples (key, value pairs)  
+Tuples are Comparable  
