@@ -125,3 +125,10 @@ Tuples are more efficient in terms of memory use and performance
 Tuples and assignment  
 Tuples and Dictionaries - items() method in dictionaries returns a list of tuples (key, value pairs)  
 Tuples are Comparable  
+Using sorted() for obtaining sorted tuples in a dictionary - t = sorted(d.items())  
+Sorting by values instead of key - construct a list of tuples with a form (value, key), reverse assigning with a for loop  
+Shorter version with list comprehension - print( sorted[ (v,k) for k,v in c.items() ] )  
+Sorting a dictionary using tuples  
+
+## Regular Expressions (Chapter 11)  
+Regular Expression Module "import re"  
