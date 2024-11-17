@@ -134,3 +134,27 @@ Sorting a dictionary using tuples
 Regular Expression Module "import re"  
 Using re.search() like find()  
 Wild-card characters (dot, asterisk, \s, +)  
+Matching and extracting data re.findall()  
+Greedy matching, non-greedy matching  
+Fine tuning string extraction  
+String Parsing  
+Double-split Pattern  
+Regex version of string parsing  
+Escape Character  
+
+## Networked Programs (Chapter 12)
+Transmission Control Protocol(TCP)  
+TCP Ports  
+Sockets in Python  
+Application Protocol  
+HTTP Protocol  
+What is a protocol?  
+Getting Data From The Server (GET Request)  
+Internet Standards (IETF, RFCs)  
+telnet HTTP Request  
+Accurate hacking in movies (nmap)  
+Write a Web Browser  
+An HTTP Request in Python  
+Characters and Strings  
+ASCII  
+Python 2 vs Python 3 strings (Python 3 strings are full unicode)  
