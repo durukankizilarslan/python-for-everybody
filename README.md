@@ -133,3 +133,4 @@ Sorting a dictionary using tuples
 ## Regular Expressions (Chapter 11)  
 Regular Expression Module "import re"  
 Using re.search() like find()  
+Wild-card characters (dot, asterisk, \s, +)  
