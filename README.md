@@ -163,3 +163,16 @@ Reading Web Pages and Following Links
 Parsing HTML (Web Scraping)  
 The Easy Way - Beautiful Soup free software library from crummy.com  
 Installing BeautifulSoup  
+
+## Web Services (Chapter 13)  
+Sending Data across the "Net" - The Wire Protocol  
+Agreeing on a "Wire Format" - Serialization/De-Serialization , XML/JSON - ways of marking up data  
+XML - eXstensible markup language  
+XML Basics - XML tags, whitespaces, Elements (Node), Text Nodes and Attributes  
+XML as paths  
+XML Schema, XML Validation  
+XSD XML Schema (W3C spec)  
+XSD Structure,  XSD Constraints  
+XSD Data Types  
+ISO 8601:Date Time Format  
+JavaScript Object Notation - JSON  
