@@ -159,3 +159,7 @@ Characters and Strings
 ASCII  
 Python 2 vs Python 3 strings (Python 3 strings are full unicode)  
 Using urllib in Python  
+Reading Web Pages and Following Links  
+Parsing HTML (Web Scraping)  
+The Easy Way - Beautiful Soup free software library from crummy.com  
+Installing BeautifulSoup  
